@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CodinnatorApplication {
 
 	public static void main(String[] args) {
-           SpringApplication.run(CondinnatorApplication.class,args);
+           SpringApplication.run(CondinatorApplication.class,args);
 }
 
 }
