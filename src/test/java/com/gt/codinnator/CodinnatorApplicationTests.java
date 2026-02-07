@@ -8,6 +8,7 @@ class CodinnatorApplicationTests {
 
 	@Test
 	void contextLoads() {
+test
 	}
 
 }
